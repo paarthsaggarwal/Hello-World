@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 
-    cout<<"Subscribe To TedchDecode Now !!";
+    cout<<"Hello World!";
     
     return 0;
 }
